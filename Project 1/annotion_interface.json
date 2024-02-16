@@ -1,0 +1,17 @@
+<View>
+  <View style="display:flex;align-items:start;gap:8px;flex-direction:row"><Image name="image" value="$image" zoom="true" zoomControl="true" rotateControl="true"/><RectangleLabels name="label" toName="image" showInline="false" strokeWidth="0.5">
+    <Label value="dog" background="orange"/>
+    <Label value="cat" background="purple"/>
+  </RectangleLabels></View>
+  <View className="prompt">
+    <TextArea name="prompt" toName="image" editable="true" rows="2" maxSubmissions="1" showSubmitButton="true" strokeWidth="0.5"/>
+  </View>
+  <View><BrushLabels name="label1" toName="image" showInline="true">
+    <Label value="dog" background="orange"/>
+    <Label value="cat" background="purple"/>
+    </BrushLabels></View>
+  <Choices name="choice" toName="image" showInLine="true" strokeWidth="0.5">
+    <Choice value="dog" background="blue"/>
+    <Choice value="cat" background="green"/>
+  </Choices>
+</View>

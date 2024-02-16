@@ -1,0 +1,602 @@
+[
+  {
+    "image": "\/data\/upload\/2\/a4cb683b-cat.1000.jpg",
+    "id": 35,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2024-02-16T07:20:37.761687Z",
+    "updated_at": "2024-02-16T07:20:37.761687Z",
+    "lead_time": 17.107
+  },
+  {
+    "image": "\/data\/upload\/2\/b49a2ca8-cat.1001.jpg",
+    "id": 36,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2024-02-16T07:20:42.357137Z",
+    "updated_at": "2024-02-16T07:20:42.357137Z",
+    "lead_time": 3.007
+  },
+  {
+    "image": "\/data\/upload\/2\/eece6a8c-cat.1002.jpg",
+    "id": 37,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2024-02-16T07:20:46.106672Z",
+    "updated_at": "2024-02-16T07:20:46.106672Z",
+    "lead_time": 2.361
+  },
+  {
+    "image": "\/data\/upload\/2\/618ae5b6-cat.1003.jpg",
+    "id": 38,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2024-02-16T07:20:52.638508Z",
+    "updated_at": "2024-02-16T07:20:52.638508Z",
+    "lead_time": 5.138
+  },
+  {
+    "image": "\/data\/upload\/2\/877693c7-cat.1004.jpg",
+    "id": 39,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2024-02-16T07:20:56.968328Z",
+    "updated_at": "2024-02-16T07:20:56.968328Z",
+    "lead_time": 2.941
+  },
+  {
+    "image": "\/data\/upload\/2\/2c79a63d-cat.1005.jpg",
+    "id": 40,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2024-02-16T07:21:00.593818Z",
+    "updated_at": "2024-02-16T07:21:00.593818Z",
+    "lead_time": 2.297
+  },
+  {
+    "image": "\/data\/upload\/2\/f8ec55e9-cat.1006.jpg",
+    "id": 41,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2024-02-16T07:21:03.390665Z",
+    "updated_at": "2024-02-16T07:21:03.390665Z",
+    "lead_time": 1.381
+  },
+  {
+    "image": "\/data\/upload\/2\/8ad6f4ab-cat.1007.jpg",
+    "id": 42,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2024-02-16T07:21:29.987691Z",
+    "updated_at": "2024-02-16T07:21:29.987691Z",
+    "lead_time": 1.837
+  },
+  {
+    "image": "\/data\/upload\/2\/934904b0-cat.1008.jpg",
+    "id": 43,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2024-02-16T07:21:32.816300Z",
+    "updated_at": "2024-02-16T07:21:32.816300Z",
+    "lead_time": 1.424
+  },
+  {
+    "image": "\/data\/upload\/2\/924332e6-cat.1009.jpg",
+    "id": 44,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2024-02-16T07:21:35.191501Z",
+    "updated_at": "2024-02-16T07:21:35.191501Z",
+    "lead_time": 1.002
+  },
+  {
+    "image": "\/data\/upload\/2\/184086f4-cat.1010.jpg",
+    "id": 45,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2024-02-16T07:21:37.910280Z",
+    "updated_at": "2024-02-16T07:21:37.910280Z",
+    "lead_time": 1.322
+  },
+  {
+    "image": "\/data\/upload\/2\/0426c601-cat.1011.jpg",
+    "id": 46,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2024-02-16T07:21:40.754001Z",
+    "updated_at": "2024-02-16T07:21:40.754001Z",
+    "lead_time": 1.381
+  },
+  {
+    "image": "\/data\/upload\/2\/1b959434-cat.1012.jpg",
+    "id": 47,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2024-02-16T07:21:43.398898Z",
+    "updated_at": "2024-02-16T07:21:43.398898Z",
+    "lead_time": 1.256
+  },
+  {
+    "image": "\/data\/upload\/2\/9e8c0159-cat.1013.jpg",
+    "id": 48,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2024-02-16T07:21:45.932278Z",
+    "updated_at": "2024-02-16T07:21:45.932278Z",
+    "lead_time": 1.149
+  },
+  {
+    "image": "\/data\/upload\/2\/a35c37dd-cat.1014.jpg",
+    "id": 49,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2024-02-16T07:21:48.822692Z",
+    "updated_at": "2024-02-16T07:21:48.822692Z",
+    "lead_time": 1.449
+  },
+  {
+    "image": "\/data\/upload\/2\/fa6717a1-cat.1015.jpg",
+    "id": 50,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 50,
+    "created_at": "2024-02-16T07:21:51.282473Z",
+    "updated_at": "2024-02-16T07:21:51.282473Z",
+    "lead_time": 1.039
+  },
+  {
+    "image": "\/data\/upload\/2\/020fd1f7-cat.1016.jpg",
+    "id": 51,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 51,
+    "created_at": "2024-02-16T07:21:54.033527Z",
+    "updated_at": "2024-02-16T07:21:54.033527Z",
+    "lead_time": 1.317
+  },
+  {
+    "image": "\/data\/upload\/2\/a608f1a9-cat.1017.jpg",
+    "id": 52,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 52,
+    "created_at": "2024-02-16T07:21:56.424086Z",
+    "updated_at": "2024-02-16T07:21:56.439709Z",
+    "lead_time": 0.961
+  },
+  {
+    "image": "\/data\/upload\/2\/3d72bab6-cat.1018.jpg",
+    "id": 53,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 53,
+    "created_at": "2024-02-16T07:22:01.092297Z",
+    "updated_at": "2024-02-16T07:22:01.092297Z",
+    "lead_time": 3.087
+  },
+  {
+    "image": "\/data\/upload\/2\/c4f8e603-cat.1019.jpg",
+    "id": 54,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 54,
+    "created_at": "2024-02-16T07:22:03.666108Z",
+    "updated_at": "2024-02-16T07:22:03.666108Z",
+    "lead_time": 1.156
+  },
+  {
+    "image": "\/data\/upload\/2\/4cffe628-cat.1020.jpg",
+    "id": 55,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 55,
+    "created_at": "2024-02-16T07:22:07.306701Z",
+    "updated_at": "2024-02-16T07:22:07.306701Z",
+    "lead_time": 2.261
+  },
+  {
+    "image": "\/data\/upload\/2\/78a116e3-cat.1021.jpg",
+    "id": 56,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 56,
+    "created_at": "2024-02-16T07:22:10.033570Z",
+    "updated_at": "2024-02-16T07:22:10.033570Z",
+    "lead_time": 1.32
+  },
+  {
+    "image": "\/data\/upload\/2\/79093282-cat.1022.jpg",
+    "id": 57,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 57,
+    "created_at": "2024-02-16T07:22:14.274122Z",
+    "updated_at": "2024-02-16T07:22:14.274122Z",
+    "lead_time": 2.521
+  },
+  {
+    "image": "\/data\/upload\/2\/71348a78-cat.1023.jpg",
+    "id": 58,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 58,
+    "created_at": "2024-02-16T07:22:16.925359Z",
+    "updated_at": "2024-02-16T07:22:16.925359Z",
+    "lead_time": 1.292
+  },
+  {
+    "image": "\/data\/upload\/2\/39666b88-cat.1024.jpg",
+    "id": 59,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 59,
+    "created_at": "2024-02-16T07:22:20.081658Z",
+    "updated_at": "2024-02-16T07:22:20.081658Z",
+    "lead_time": 1.437
+  },
+  {
+    "image": "\/data\/upload\/2\/e8d53223-cat.1025.jpg",
+    "id": 60,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 60,
+    "created_at": "2024-02-16T07:22:22.675356Z",
+    "updated_at": "2024-02-16T07:22:22.675356Z",
+    "lead_time": 1.189
+  },
+  {
+    "image": "\/data\/upload\/2\/1f1adfb5-cat.1026.jpg",
+    "id": 61,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 61,
+    "created_at": "2024-02-16T07:22:25.946608Z",
+    "updated_at": "2024-02-16T07:22:25.946608Z",
+    "lead_time": 1.505
+  },
+  {
+    "image": "\/data\/upload\/2\/9776dd1e-cat.1027.jpg",
+    "id": 62,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 62,
+    "created_at": "2024-02-16T07:22:28.602810Z",
+    "updated_at": "2024-02-16T07:22:28.602810Z",
+    "lead_time": 1.296
+  },
+  {
+    "image": "\/data\/upload\/2\/08f409a8-cat.1028.jpg",
+    "id": 63,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 63,
+    "created_at": "2024-02-16T07:22:32.118442Z",
+    "updated_at": "2024-02-16T07:22:32.118442Z",
+    "lead_time": 1.731
+  },
+  {
+    "image": "\/data\/upload\/2\/0027c661-cat.1029.jpg",
+    "id": 64,
+    "label": "cat",
+    "annotator": 1,
+    "annotation_id": 64,
+    "created_at": "2024-02-16T07:22:35.090959Z",
+    "updated_at": "2024-02-16T07:23:17.917729Z",
+    "lead_time": 11.344
+  },
+  {
+    "image": "\/data\/upload\/2\/7d52ad6b-dog.1000.jpg",
+    "id": 65,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 65,
+    "created_at": "2024-02-16T07:22:38.294116Z",
+    "updated_at": "2024-02-16T07:22:58.654125Z",
+    "lead_time": 6.045999999999999
+  },
+  {
+    "image": "\/data\/upload\/2\/84203a64-dog.1001.jpg",
+    "id": 66,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 66,
+    "created_at": "2024-02-16T07:22:41.083983Z",
+    "updated_at": "2024-02-16T07:23:28.215109Z",
+    "lead_time": 3.921
+  },
+  {
+    "image": "\/data\/upload\/2\/346fa9ee-dog.1002.jpg",
+    "id": 67,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 67,
+    "created_at": "2024-02-16T07:23:37.556316Z",
+    "updated_at": "2024-02-16T07:23:37.556316Z",
+    "lead_time": 2.623
+  },
+  {
+    "image": "\/data\/upload\/2\/b7e6acc8-dog.1003.jpg",
+    "id": 68,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 68,
+    "created_at": "2024-02-16T07:23:40.837370Z",
+    "updated_at": "2024-02-16T07:23:40.837370Z",
+    "lead_time": 1.878
+  },
+  {
+    "image": "\/data\/upload\/2\/c0bc01a3-dog.1004.jpg",
+    "id": 69,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 69,
+    "created_at": "2024-02-16T07:23:43.931379Z",
+    "updated_at": "2024-02-16T07:23:43.931379Z",
+    "lead_time": 1.334
+  },
+  {
+    "image": "\/data\/upload\/2\/08948713-dog.1005.jpg",
+    "id": 70,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 70,
+    "created_at": "2024-02-16T07:23:46.665743Z",
+    "updated_at": "2024-02-16T07:23:46.665743Z",
+    "lead_time": 1.337
+  },
+  {
+    "image": "\/data\/upload\/2\/bc45122b-dog.1006.jpg",
+    "id": 71,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 71,
+    "created_at": "2024-02-16T07:23:54.510281Z",
+    "updated_at": "2024-02-16T07:23:54.510281Z",
+    "lead_time": 6.158
+  },
+  {
+    "image": "\/data\/upload\/2\/28dee1d4-dog.1007.jpg",
+    "id": 72,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 72,
+    "created_at": "2024-02-16T07:23:57.166470Z",
+    "updated_at": "2024-02-16T07:23:57.166470Z",
+    "lead_time": 1.272
+  },
+  {
+    "image": "\/data\/upload\/2\/8d30f403-dog.1008.jpg",
+    "id": 73,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 73,
+    "created_at": "2024-02-16T07:23:59.822776Z",
+    "updated_at": "2024-02-16T07:23:59.822776Z",
+    "lead_time": 0.956
+  },
+  {
+    "image": "\/data\/upload\/2\/e7017711-dog.1009.jpg",
+    "id": 74,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 74,
+    "created_at": "2024-02-16T07:24:02.057118Z",
+    "updated_at": "2024-02-16T07:24:02.057118Z",
+    "lead_time": 0.739
+  },
+  {
+    "image": "\/data\/upload\/2\/a1b845f7-dog.1010.jpg",
+    "id": 75,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 75,
+    "created_at": "2024-02-16T07:24:04.682686Z",
+    "updated_at": "2024-02-16T07:24:04.682686Z",
+    "lead_time": 0.788
+  },
+  {
+    "image": "\/data\/upload\/2\/8608adab-dog.1011.jpg",
+    "id": 76,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 76,
+    "created_at": "2024-02-16T07:24:06.979565Z",
+    "updated_at": "2024-02-16T07:24:06.979565Z",
+    "lead_time": 0.8
+  },
+  {
+    "image": "\/data\/upload\/2\/5513fcb9-dog.1012.jpg",
+    "id": 77,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 77,
+    "created_at": "2024-02-16T07:24:09.057702Z",
+    "updated_at": "2024-02-16T07:24:09.057702Z",
+    "lead_time": 0.506
+  },
+  {
+    "image": "\/data\/upload\/2\/cf614d9a-dog.1013.jpg",
+    "id": 78,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 78,
+    "created_at": "2024-02-16T07:24:11.495187Z",
+    "updated_at": "2024-02-16T07:24:11.495187Z",
+    "lead_time": 0.704
+  },
+  {
+    "image": "\/data\/upload\/2\/16e1dd48-dog.1014.jpg",
+    "id": 79,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 79,
+    "created_at": "2024-02-16T07:24:14.607778Z",
+    "updated_at": "2024-02-16T07:24:14.607778Z",
+    "lead_time": 1.631
+  },
+  {
+    "image": "\/data\/upload\/2\/e68f1cac-dog.1015.jpg",
+    "id": 80,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 80,
+    "created_at": "2024-02-16T07:24:17.449341Z",
+    "updated_at": "2024-02-16T07:24:17.449341Z",
+    "lead_time": 1.037
+  },
+  {
+    "image": "\/data\/upload\/2\/8df0758d-dog.1016.jpg",
+    "id": 81,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 81,
+    "created_at": "2024-02-16T07:24:19.496213Z",
+    "updated_at": "2024-02-16T07:24:19.496213Z",
+    "lead_time": 0.531
+  },
+  {
+    "image": "\/data\/upload\/2\/54e94b7b-dog.1017.jpg",
+    "id": 82,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 82,
+    "created_at": "2024-02-16T07:24:21.933703Z",
+    "updated_at": "2024-02-16T07:24:21.933703Z",
+    "lead_time": 0.567
+  },
+  {
+    "image": "\/data\/upload\/2\/e38b8f9f-dog.1018.jpg",
+    "id": 83,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 83,
+    "created_at": "2024-02-16T07:24:24.052761Z",
+    "updated_at": "2024-02-16T07:24:24.068368Z",
+    "lead_time": 0.536
+  },
+  {
+    "image": "\/data\/upload\/2\/6503d2cb-dog.1019.jpg",
+    "id": 84,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2024-02-16T07:24:26.693361Z",
+    "updated_at": "2024-02-16T07:24:26.693361Z",
+    "lead_time": 0.6
+  },
+  {
+    "image": "\/data\/upload\/2\/a122528e-dog.1020.jpg",
+    "id": 85,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 85,
+    "created_at": "2024-02-16T07:24:28.771485Z",
+    "updated_at": "2024-02-16T07:24:28.771485Z",
+    "lead_time": 0.579
+  },
+  {
+    "image": "\/data\/upload\/2\/4a7a1260-dog.1021.jpg",
+    "id": 86,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 86,
+    "created_at": "2024-02-16T07:24:31.193378Z",
+    "updated_at": "2024-02-16T07:24:31.193378Z",
+    "lead_time": 0.7
+  },
+  {
+    "image": "\/data\/upload\/2\/c2d38d8d-dog.1022.jpg",
+    "id": 87,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 87,
+    "created_at": "2024-02-16T07:24:33.240291Z",
+    "updated_at": "2024-02-16T07:24:33.240291Z",
+    "lead_time": 0.63
+  },
+  {
+    "image": "\/data\/upload\/2\/4d7f4322-dog.1023.jpg",
+    "id": 88,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 88,
+    "created_at": "2024-02-16T07:24:37.565493Z",
+    "updated_at": "2024-02-16T07:24:37.565493Z",
+    "lead_time": 2.54
+  },
+  {
+    "image": "\/data\/upload\/2\/68c1a0b0-dog.1024.jpg",
+    "id": 89,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2024-02-16T07:24:41.762548Z",
+    "updated_at": "2024-02-16T07:24:41.762548Z",
+    "lead_time": 2.882
+  },
+  {
+    "image": "\/data\/upload\/2\/c1194ca9-dog.1025.jpg",
+    "id": 90,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2024-02-16T07:24:45.592333Z",
+    "updated_at": "2024-02-16T07:24:45.592333Z",
+    "lead_time": 2.132
+  },
+  {
+    "image": "\/data\/upload\/2\/82d87262-dog.1026.jpg",
+    "id": 91,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 91,
+    "created_at": "2024-02-16T07:24:48.389213Z",
+    "updated_at": "2024-02-16T07:24:48.389213Z",
+    "lead_time": 1.446
+  },
+  {
+    "image": "\/data\/upload\/2\/a753f78c-dog.1027.jpg",
+    "id": 92,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 92,
+    "created_at": "2024-02-16T07:24:51.221919Z",
+    "updated_at": "2024-02-16T07:24:51.221919Z",
+    "lead_time": 1.093
+  },
+  {
+    "image": "\/data\/upload\/2\/b0723e1f-dog.1028.jpg",
+    "id": 93,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2024-02-16T07:24:53.780553Z",
+    "updated_at": "2024-02-16T07:24:53.780553Z",
+    "lead_time": 1.123
+  },
+  {
+    "image": "\/data\/upload\/2\/5864cadc-dog.1029.jpg",
+    "id": 94,
+    "label": "dog",
+    "annotator": 1,
+    "annotation_id": 94,
+    "created_at": "2024-02-16T07:24:57.051387Z",
+    "updated_at": "2024-02-16T07:24:57.051387Z",
+    "lead_time": 1.505
+  }
+]

@@ -1,0 +1,8 @@
+<View>
+  <View style="display:flex;align-items:start;gap:8px;flex-direction:row"><Image name="image" value="$image" zoom="true" zoomControl="true" rotateControl="true"/>
+  <Choices name="label" toName="image" showInLine="true" strokeWidth="0.5">
+    <Choice value="dog"/>
+    <Choice value="cat"/>
+  </Choices>
+  </View>
+</View>
